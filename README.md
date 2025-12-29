@@ -59,5 +59,3 @@ SQL • Python • Power BI • Building Scalable Data Pipelines • Data Archit
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-- Data Engineering concepts  
-- Cloud data platforms and pipelines  
