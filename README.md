@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Eslam Muammer 👋</h1>
 
 <h3 align="center">
-Data Analyst | Data Engineer Trainee 🚀
+Data Analyst | Data Engineer 
 </h3>
 <h4 align="center">
 SQL • Python • Power BI • Building Scalable Data Pipelines • Data Architecture
