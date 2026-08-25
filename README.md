@@ -1,60 +1,59 @@
-<h1 align="center">Eslam Muammer</h1>
+<div align="center">
 
-<p align="center">
-  Data Analyst · Data Engineer
-</p>
+# Eslam Muammer
 
-<p align="center">
-  Building scalable data systems and turning raw data into decision-ready assets<br/>
-  SQL • Python • Power BI • Data Modeling • Data Architecture
-</p>
+**Data Analyst · Business Analytics**
 
-<hr style="border: none; height: 1px; background: #2f2f2f; opacity: 0.35;" />
+Turning business data into decisions — across sales, marketing, HR, and retail operations.
 
-### About
-- Physics & Laser Science background with strong analytical and mathematical discipline  
-- Experience across the full data lifecycle: ingestion, modeling, analysis, and visualization  
-- Focused on clarity, scalability, and business impact, not decorative dashboards  
-- Operates comfortably between analytics and engineering responsibilities  
+[LinkedIn](https://www.linkedin.com/in/eslammuammer/) · [Email](mailto:eslammuammer@gmail.com)
 
----
+</div>
 
-### Tech Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="38"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="38"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="38"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="38"/>
-</p>
+<br />
 
-<p align="center">
-  SQL Server · ETL Pipelines · Data Modeling · Analytics Engineering · Cloud Fundamentals
-</p>
+## About
 
----
+Physics & Laser Science background, now applied to data analysis. I work across the analytics lifecycle — SQL and Python for exploration, Power BI and Tableau for dashboards — turning raw datasets into KPIs and recommendations that support business decisions.
 
-### Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/eslammuammer/" target="_blank">
-    <img
-      src="https://www.svgrepo.com/show/448234/linkedin.svg"
-      width="40"
-      style="margin: 0 18px; filter: brightness(0) invert(1); opacity: 0.8;"
-      alt="LinkedIn"
-    />
-  </a>
+I've applied this across sales, marketing, HR, and retail operations: building dashboards and analyses that surface what's driving performance and where the opportunities are.
 
-  <a href="mailto:eslammuammer@gmail.com">
-    <img
-      src="https://www.svgrepo.com/show/349378/gmail.svg"
-      width="40"
-      style="margin: 0 18px; filter: brightness(0) invert(1); opacity: 0.8;"
-      alt="Email"
-    />
-  </a>
-</p>
+<br />
+
+## Selected Work
+
+**[Marketing KPI Dashboard](https://github.com/EslamMuammer/Marketing)**
+SQL-modeled dataset and Power BI dashboard tracking conversion rate, customer engagement, average order value, and customer satisfaction — built to guide campaign and pricing decisions.
+`SQL` `Power BI` `DAX`
+
+**[Retail Sales Analytics — Health & Essentials Store](https://github.com/EslamMuammer/Health-Essential-Store-Sales)**
+Python exploratory analysis and Power BI dashboard covering revenue, product performance, and regional trends for a retail health store.
+`Python` `Pandas` `Power BI`
+
+**[Employee Sleep & Lifestyle Analysis](https://github.com/EslamMuammer/Sleep-health-Life-Style)**
+Python analysis and Tableau dashboard identifying sleep and lifestyle patterns across employees, built to support workplace wellbeing decisions.
+`Python` `Tableau`
+
+**[HR Workforce Dashboard](https://github.com/EslamMuammer/HR)**
+Excel dashboard analyzing employee demographics, compensation structure, and cost distribution across branches, nationalities, and job titles.
+`Excel`
+
+**[Sales Performance Dashboard](https://github.com/EslamMuammer/Sales)**
+Excel dashboard tracking revenue, profit, targets, and completion rate across regions and time periods.
+`Excel`
+
+<br />
+
+## Core Capabilities
+
+**Analytics** — Python (Pandas, NumPy), exploratory data analysis, statistical summaries
+
+**Business Intelligence** — Power BI, DAX, Tableau, Excel dashboards
+
+**Data** — SQL, data modeling, data cleaning and preparation
+
+<br />
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/eslammuammer/) · [Email](mailto:eslammuammer@gmail.com)
