@@ -20,40 +20,6 @@ I've applied this across sales, marketing, HR, and retail operations: building d
 
 <br>
 
-## Selected Work
-
-[**Marketing KPI Dashboard**](https://github.com/EslamMuammer/Marketing)
-
-SQL-modeled dataset and Power BI dashboard tracking conversion rate, customer engagement, average order value, and customer satisfaction — built to guide campaign and pricing decisions.
-
-`SQL` `Power BI` `DAX`
-
-[**Retail Sales Analytics — Health & Essentials Store**](https://github.com/EslamMuammer/Health-Essential-Store-Sales)
-
-Python exploratory analysis and Power BI dashboard covering revenue, product performance, and regional trends for a retail health store.
-
-`Python` `Pandas` `Power BI`
-
-[**Employee Sleep & Lifestyle Analysis**](https://github.com/EslamMuammer/Sleep-health-Life-Style)
-
-Python analysis and Tableau dashboard identifying sleep and lifestyle patterns across employees, built to support workplace wellbeing decisions.
-
-`Python` `Tableau`
-
-[**HR Workforce Dashboard**](https://github.com/EslamMuammer/HR)
-
-Excel dashboard analyzing employee demographics, compensation structure, and cost distribution across branches, nationalities, and job titles.
-
-`Excel`
-
-[**Sales Performance Dashboard**](https://github.com/EslamMuammer/Sales)
-
-Excel dashboard tracking revenue, profit, targets, and completion rate across regions and time periods.
-
-`Excel`
-
-<br>
-
 ## Core Capabilities
 
 **Analytics** — Python (Pandas, NumPy), exploratory data analysis, statistical summaries
